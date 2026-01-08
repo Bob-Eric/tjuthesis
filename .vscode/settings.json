@@ -1,5 +1,3 @@
 {
-    "cSpell.enableFiletypes": [
-        "!tex"
-    ]
+    "latex-workshop.latex.outDir": "%DIR%/out"
 }
